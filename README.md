@@ -1,5 +1,7 @@
 # [Data Analytics Dashboard](https://frontendella.github.io/Data-Analytics-Dashboard/)
 
+![Dashboard (1)](https://user-images.githubusercontent.com/82247833/221395751-0f46b2c5-22cb-4472-b3c2-ca876b414f38.gif)
+
 
 [Figma design document](https://www.figma.com/file/VnejwcImzFbFOEyGxNRAkz/Dashboard?node-id=0%3A1&t=EnaygXddic9f092B-0)
 
